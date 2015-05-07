@@ -30,4 +30,4 @@ if __name__ == '__main__':
             coverage.process_startup()
         except:
             pass
-    gluon.widget.start(cron=True).
+    gluon.widget.start(cron=True)
